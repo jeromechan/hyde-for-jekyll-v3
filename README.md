@@ -18,9 +18,11 @@ We suggest every developer to finish compatible jobs with Jekyll v3.
 ![tags page](screenshot-hyde-tags-page.png)
 
 **- Categories page**
+
 ![categories page](screenshot-hyde-categories-page.png)
 
 **- Timeline page**
+
 ![timeline page](screenshot-hyde-timeline-page.png)
 
 ### 3. Append related post partial to 404 page
