@@ -38,7 +38,11 @@ To use this shell, you must obtain branches named source & master firstly.
 > sh jekyll-deploy.sh
 ```
 
-### 5. Others code improvements in performance aspects
+### 5. Add sitemap files for friendly SEO
+
+Base on the original atom.xml, We extra added sitemap files such as sitemap.xml, feed.xml for friendly SEO. 
+
+### 6. Others code improvements in performance aspects
 
 ## Original Hyde User Guide
 
