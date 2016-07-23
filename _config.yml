@@ -1,0 +1,39 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Paginate
+gems:             [jekyll-paginate]
+paginate:         1
+paginate_path:    "/page/:num"
+
+# Permalinks
+# permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Jerome Chan
+tagline:          'A Web developer, talking about development'
+description:      'Hello, I&acutem a web developer at Tuniu Corp. Follow my <a href="https://github.com/jeromechan" target="_blank">GitHub</a>.'
+url:              http://aboutcoder.com
+baseurl:          /
+
+# Author summary
+author:
+  name:           'Jerome Chan'
+  url:            http://weibo.com/5812529126
+
+# Custom vars
+version:          2.1.0 Hyde-for-jekyll-3
+
+# Social network accounts
+social:
+  github:         https://github.com/jeromechan
+
+# Tracking accounts
+track:
+  cnzz:           123456 # place the cnzz tracking id, ref:cnzz.com | <http://www.umeng.com/>
+
+# Comment components
+comment:
+  disqus:         abc1234567890 # place the disqus shorname for your custom domain

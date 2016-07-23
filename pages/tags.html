@@ -1,0 +1,26 @@
+---
+layout: page
+permalink: tags
+title: Tags
+---
+
+{% for tag in site.tags %}
+	<h3>{{ tag[0] }}</h3>
+	{% for post in tag[1] %} 
+		<ul>
+			<li><a href="{{ post.url }}" target="_blank">{{ post.title }}&nbsp;
+		{% if post.categories != empty %}
+			[
+			{% for postCat in post.categories %}
+	     		{{ postCat }}
+	     		{% if forloop.rindex != 1 %}
+	   			,
+	     		{% endif %}
+     		{% endfor %}
+     		]
+		{% endif %}
+		</a>&nbsp;<small>{{ post.date | date_to_string}}</small>
+			</li>
+		</ul>
+	{% endfor %}
+{% endfor %}
