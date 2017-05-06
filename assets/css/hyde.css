@@ -248,3 +248,14 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Deep Blue */
+
+.theme-base-deepblue-01 .sidebar {
+  background-color: #002b36;
+}
+
+.theme-base-deepblue-01 .content a,
+.theme-base-deepblue-01 .related-posts li a:hover {
+  color: #002b36;
+}

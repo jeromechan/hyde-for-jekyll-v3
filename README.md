@@ -42,7 +42,19 @@ To use this shell, you must obtain branches named source & master firstly.
 
 Base on the original atom.xml, We extra added sitemap files such as sitemap.xml, feed.xml for friendly SEO. 
 
-### 6. Others code improvements in performance aspects
+### 6. Add a new blue theme 
+ 
+![screenshot-hyde-deepblue-theme](screenshot-hyde-deepblue-theme.png)
+
+To use a theme, add anyone of the available theme classes to the <body> element in the default.html layout, like so:
+
+```html
+<body class="theme-base-deepblue-01">
+  ...
+</body>
+```
+
+### 7. Others code improvements in performance aspects
 
 ## Original Hyde User Guide
 
