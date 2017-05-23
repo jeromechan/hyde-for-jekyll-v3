@@ -1,5 +1,7 @@
 # Hyde for Jekyll 3
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8223ada725da44a388c4b1b8461eae5c)](https://www.codacy.com/app/jerome.chan369/hyde-for-jekyll-v3?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jeromechan/hyde-for-jekyll-v3&amp;utm_campaign=Badge_Grade)
+
 > "Hyde for Jekyll 3" is an upgrading [Jekyll](http://jekyllrb.com) theme that base on [poole/hyde](https://github.com/poole/hyde), which is an awesome Jekyll theme on [GitHub](https://github.com) and [getpool.com](http://getpoole.com/). 
 > 
 > We developed not only to help the original Hyde support Jekyll v3, but also provide useful features for blogging.
